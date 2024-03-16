@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">week5LoginScreen</string>
+    <string name="enterEmailPrompt">Please enter email</string>
+    <string name="alreadyUserLogin">Already a user? Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="hello">Hello,</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_txt">New User? Register</string>
+    <string name="logout">Logout</string>
+    <!-- The &#160 is an unicode reference for a non breaking space as xml files trim leading and
+    trailing white spaces-->
+    <string name="signed_in_as">Signed in as:&#160;</string>
+    <string name="play_the_video">Play the video!</string>
+</resources>

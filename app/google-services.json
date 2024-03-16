@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136066055732",
+    "project_id": "week5loginscreen",
+    "storage_bucket": "week5loginscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136066055732:android:4a8919840554f7df76d461",
+        "android_client_info": {
+          "package_name": "com.example.week5loginscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARm2Fqi7DvHuuc7IEmsgdYsChyL6XqsIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

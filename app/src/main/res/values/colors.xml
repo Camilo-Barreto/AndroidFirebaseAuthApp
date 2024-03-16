@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="airSuperiorityBlue">#6096BA</color>
+    <color name="tropicalIndigo">#8A84E2</color>
+    <color name="cambridgeBlue">#72BDA3</color>
+    <color name="eerieBlack">#191919</color>
+    <color name="snow">#FFFAFB</color>
+    <color name="vistaBlue">#7899D4</color>
+
+
+
+</resources>
